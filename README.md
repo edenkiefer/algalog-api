@@ -1,3 +1,3 @@
 # algalog-api
 
-Projeto criado para estudo e documentação com a semana do Mergulho Spring Rest da AlgaWorks, adicionando algumas coisas além do que foi ensinado na semana para documentar uma REST API simples usando Spring.
+Projeto criado para com a semana do Mergulho Spring Rest da AlgaWorks, apenas para estudo e documentação de uma REST API simples usando Spring.
